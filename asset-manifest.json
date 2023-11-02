@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/100050-DowellPermutation-V2/static/css/main.6d67f65b.css",
-    "main.js": "/100050-DowellPermutation-V2/static/js/main.b24c74a8.js",
-    "static/js/787.63f366af.chunk.js": "/100050-DowellPermutation-V2/static/js/787.63f366af.chunk.js",
-    "static/media/dowell.png": "/100050-DowellPermutation-V2/static/media/dowell.7ca76643f9dd44f573d2.png",
-    "static/media/logo.svg": "/100050-DowellPermutation-V2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/100050-DowellPermutation-V2/index.html",
-    "main.6d67f65b.css.map": "/100050-DowellPermutation-V2/static/css/main.6d67f65b.css.map",
-    "main.b24c74a8.js.map": "/100050-DowellPermutation-V2/static/js/main.b24c74a8.js.map",
-    "787.63f366af.chunk.js.map": "/100050-DowellPermutation-V2/static/js/787.63f366af.chunk.js.map"
+    "main.css": "/100102-DowellSamplingV2/static/css/main.d884443f.css",
+    "main.js": "/100102-DowellSamplingV2/static/js/main.a3d0dfc4.js",
+    "static/js/787.63f366af.chunk.js": "/100102-DowellSamplingV2/static/js/787.63f366af.chunk.js",
+    "static/media/dowell.png": "/100102-DowellSamplingV2/static/media/dowell.7ca76643f9dd44f573d2.png",
+    "static/media/logo.svg": "/100102-DowellSamplingV2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/100102-DowellSamplingV2/index.html",
+    "main.d884443f.css.map": "/100102-DowellSamplingV2/static/css/main.d884443f.css.map",
+    "main.a3d0dfc4.js.map": "/100102-DowellSamplingV2/static/js/main.a3d0dfc4.js.map",
+    "787.63f366af.chunk.js.map": "/100102-DowellSamplingV2/static/js/787.63f366af.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d67f65b.css",
-    "static/js/main.b24c74a8.js"
+    "static/css/main.d884443f.css",
+    "static/js/main.a3d0dfc4.js"
   ]
 }
